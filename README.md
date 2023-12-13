@@ -1,0 +1,1 @@
+# Descenso_de_gradiente_-practica-
